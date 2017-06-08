@@ -1,0 +1,22 @@
+{
+  "name": "step6",
+  "version": "1.0.0",
+  "description": "RTC peer conection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\ error : no test specified \\ && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyenthuynhatanh/webrtc.git"
+  },
+  "keywords": [
+    "webrtc"
+  ],
+  "author": "webrtc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nguyenthuynhatanh/webrtc/issues"
+  },
+  "homepage": "https://github.com/nguyenthuynhatanh/webrtc#readme"
+}
